@@ -13,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 How do the diagrams help you visualize the branch structure?
 
 	Diagrams help us visualize that which is the unreachable branch, detached head state or the master branch and so on.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	When we are sure of the changes, we can merge them into a single branch in order to collaborate the work in both the branches.
