@@ -6,3 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	It should depend on us when we think its appropriate to push to remote repository or pull on our local repository.
 	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	branches happen on one single repository.
+	Cloning is copying of repositories from one system to another. Creates clone of the  repository.
+	Forking is just like cloning. Where Github gives us the advantage of cloning others repositories' onto their machine. (onto here refers to Github)
