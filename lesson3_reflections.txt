@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	branches happen on one single repository.
 	Cloning is copying of repositories from one system to another. Creates clone of the  repository.
 	Forking is just like cloning. Where Github gives us the advantage of cloning others repositories' onto their machine. (onto here refers to Github)
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	We can modify from that state even when we dont have internet access and make the changes and commit from there whenever we get working internet connection.
